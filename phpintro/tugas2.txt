@@ -1,0 +1,15 @@
+<? php 
+$Andi=90;
+$pred;
+
+if(Andi>100){
+    pred="CUR";
+}
+
+else if(Andi >=90|| Andi<=100){
+    pred="A";
+}
+
+
+
+?>
